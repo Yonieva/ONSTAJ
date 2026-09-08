@@ -1,0 +1,770 @@
+{
+  "version": 2,
+  "bpm": 148.0,
+  "duree": 149.714,
+  "instrument": "universel",
+  "subdivision": "croche",
+  "decalage_grille": 0.26027,
+  "types_gameplay": [
+    "simple",
+    "accent",
+    "longue",
+    "rafale"
+  ],
+  "nombre_notes": 181,
+  "repartition": {
+    "accent": 27,
+    "simple": 138,
+    "rafale": 7,
+    "longue": 9
+  },
+  "notes": [
+    {
+      "temps": 0.2603,
+      "type": "accent"
+    },
+    {
+      "temps": 0.8684,
+      "type": "accent"
+    },
+    {
+      "temps": 1.6792,
+      "type": "accent"
+    },
+    {
+      "temps": 2.0846,
+      "type": "simple"
+    },
+    {
+      "temps": 2.49,
+      "type": "accent"
+    },
+    {
+      "temps": 2.8954,
+      "type": "simple"
+    },
+    {
+      "temps": 3.0981,
+      "type": "accent"
+    },
+    {
+      "temps": 3.5035,
+      "type": "simple"
+    },
+    {
+      "temps": 4.1116,
+      "type": "accent"
+    },
+    {
+      "temps": 4.517,
+      "type": "simple"
+    },
+    {
+      "temps": 4.9224,
+      "type": "accent"
+    },
+    {
+      "temps": 5.3278,
+      "type": "simple"
+    },
+    {
+      "temps": 5.7332,
+      "type": "accent"
+    },
+    {
+      "temps": 6.1386,
+      "type": "simple"
+    },
+    {
+      "temps": 6.3414,
+      "type": "simple"
+    },
+    {
+      "temps": 6.7468,
+      "type": "simple"
+    },
+    {
+      "temps": 7.3549,
+      "type": "accent"
+    },
+    {
+      "temps": 7.7603,
+      "type": "accent"
+    },
+    {
+      "temps": 8.1657,
+      "type": "accent"
+    },
+    {
+      "temps": 8.5711,
+      "type": "simple"
+    },
+    {
+      "temps": 8.9765,
+      "type": "accent"
+    },
+    {
+      "temps": 9.3819,
+      "type": "simple"
+    },
+    {
+      "temps": 9.5846,
+      "type": "simple"
+    },
+    {
+      "temps": 9.99,
+      "type": "simple"
+    },
+    {
+      "temps": 10.5981,
+      "type": "rafale",
+      "duree": 0.8108,
+      "objectif": 4
+    },
+    {
+      "temps": 12.017,
+      "type": "simple"
+    },
+    {
+      "temps": 12.2197,
+      "type": "simple"
+    },
+    {
+      "temps": 13.2332,
+      "type": "simple"
+    },
+    {
+      "temps": 14.6522,
+      "type": "simple"
+    },
+    {
+      "temps": 17.0846,
+      "type": "longue",
+      "duree": 0.8108
+    },
+    {
+      "temps": 18.3008,
+      "type": "simple"
+    },
+    {
+      "temps": 18.9089,
+      "type": "simple"
+    },
+    {
+      "temps": 20.3278,
+      "type": "simple"
+    },
+    {
+      "temps": 21.1386,
+      "type": "simple"
+    },
+    {
+      "temps": 21.9495,
+      "type": "simple"
+    },
+    {
+      "temps": 22.963,
+      "type": "simple"
+    },
+    {
+      "temps": 23.5711,
+      "type": "accent"
+    },
+    {
+      "temps": 24.3819,
+      "type": "rafale",
+      "duree": 0.8108,
+      "objectif": 4
+    },
+    {
+      "temps": 25.8008,
+      "type": "accent"
+    },
+    {
+      "temps": 26.2062,
+      "type": "simple"
+    },
+    {
+      "temps": 26.8143,
+      "type": "simple"
+    },
+    {
+      "temps": 27.6251,
+      "type": "simple"
+    },
+    {
+      "temps": 28.2332,
+      "type": "simple"
+    },
+    {
+      "temps": 28.4359,
+      "type": "simple"
+    },
+    {
+      "temps": 28.6386,
+      "type": "simple"
+    },
+    {
+      "temps": 29.0441,
+      "type": "simple"
+    },
+    {
+      "temps": 29.4495,
+      "type": "accent"
+    },
+    {
+      "temps": 29.8549,
+      "type": "simple"
+    },
+    {
+      "temps": 30.0576,
+      "type": "accent"
+    },
+    {
+      "temps": 30.8684,
+      "type": "simple"
+    },
+    {
+      "temps": 31.4765,
+      "type": "simple"
+    },
+    {
+      "temps": 31.6792,
+      "type": "longue",
+      "duree": 0.8108
+    },
+    {
+      "temps": 32.6927,
+      "type": "simple"
+    },
+    {
+      "temps": 33.3008,
+      "type": "simple"
+    },
+    {
+      "temps": 34.1116,
+      "type": "simple"
+    },
+    {
+      "temps": 34.9224,
+      "type": "simple"
+    },
+    {
+      "temps": 35.5305,
+      "type": "simple"
+    },
+    {
+      "temps": 35.9359,
+      "type": "simple"
+    },
+    {
+      "temps": 36.5441,
+      "type": "simple"
+    },
+    {
+      "temps": 37.1522,
+      "type": "simple"
+    },
+    {
+      "temps": 37.3549,
+      "type": "simple"
+    },
+    {
+      "temps": 38.1657,
+      "type": "simple"
+    },
+    {
+      "temps": 38.7738,
+      "type": "simple"
+    },
+    {
+      "temps": 39.1792,
+      "type": "simple"
+    },
+    {
+      "temps": 39.5846,
+      "type": "simple"
+    },
+    {
+      "temps": 39.7873,
+      "type": "simple"
+    },
+    {
+      "temps": 41.4089,
+      "type": "simple"
+    },
+    {
+      "temps": 42.017,
+      "type": "simple"
+    },
+    {
+      "temps": 42.4224,
+      "type": "simple"
+    },
+    {
+      "temps": 43.0305,
+      "type": "simple"
+    },
+    {
+      "temps": 43.6386,
+      "type": "simple"
+    },
+    {
+      "temps": 44.6522,
+      "type": "simple"
+    },
+    {
+      "temps": 45.2603,
+      "type": "simple"
+    },
+    {
+      "temps": 45.6657,
+      "type": "simple"
+    },
+    {
+      "temps": 46.4765,
+      "type": "longue",
+      "duree": 0.8108
+    },
+    {
+      "temps": 47.6927,
+      "type": "simple"
+    },
+    {
+      "temps": 48.0981,
+      "type": "accent"
+    },
+    {
+      "temps": 48.5035,
+      "type": "simple"
+    },
+    {
+      "temps": 49.7197,
+      "type": "accent"
+    },
+    {
+      "temps": 50.9359,
+      "type": "simple"
+    },
+    {
+      "temps": 51.3414,
+      "type": "rafale",
+      "duree": 1.2162,
+      "objectif": 6
+    },
+    {
+      "temps": 52.963,
+      "type": "accent"
+    },
+    {
+      "temps": 54.5846,
+      "type": "accent"
+    },
+    {
+      "temps": 55.3954,
+      "type": "simple"
+    },
+    {
+      "temps": 56.2062,
+      "type": "simple"
+    },
+    {
+      "temps": 56.6116,
+      "type": "longue",
+      "duree": 0.8108
+    },
+    {
+      "temps": 57.8278,
+      "type": "simple"
+    },
+    {
+      "temps": 58.2332,
+      "type": "accent"
+    },
+    {
+      "temps": 59.4495,
+      "type": "simple"
+    },
+    {
+      "temps": 60.2603,
+      "type": "simple"
+    },
+    {
+      "temps": 61.0711,
+      "type": "simple"
+    },
+    {
+      "temps": 61.8819,
+      "type": "simple"
+    },
+    {
+      "temps": 62.6927,
+      "type": "accent"
+    },
+    {
+      "temps": 64.3143,
+      "type": "simple"
+    },
+    {
+      "temps": 65.9359,
+      "type": "simple"
+    },
+    {
+      "temps": 66.5441,
+      "type": "simple"
+    },
+    {
+      "temps": 66.7468,
+      "type": "simple"
+    },
+    {
+      "temps": 67.5576,
+      "type": "simple"
+    },
+    {
+      "temps": 68.3684,
+      "type": "simple"
+    },
+    {
+      "temps": 69.1792,
+      "type": "longue",
+      "duree": 0.8108
+    },
+    {
+      "temps": 70.3954,
+      "type": "simple"
+    },
+    {
+      "temps": 70.8008,
+      "type": "simple"
+    },
+    {
+      "temps": 71.2062,
+      "type": "simple"
+    },
+    {
+      "temps": 72.4224,
+      "type": "simple"
+    },
+    {
+      "temps": 73.6386,
+      "type": "simple"
+    },
+    {
+      "temps": 74.0441,
+      "type": "rafale",
+      "duree": 0.8108,
+      "objectif": 4
+    },
+    {
+      "temps": 75.6657,
+      "type": "simple"
+    },
+    {
+      "temps": 77.2873,
+      "type": "simple"
+    },
+    {
+      "temps": 77.6927,
+      "type": "simple"
+    },
+    {
+      "temps": 78.9089,
+      "type": "simple"
+    },
+    {
+      "temps": 80.5305,
+      "type": "simple"
+    },
+    {
+      "temps": 80.9359,
+      "type": "longue",
+      "duree": 1.6216
+    },
+    {
+      "temps": 83.9765,
+      "type": "simple"
+    },
+    {
+      "temps": 84.1792,
+      "type": "rafale",
+      "duree": 0.8108,
+      "objectif": 4
+    },
+    {
+      "temps": 85.3954,
+      "type": "simple"
+    },
+    {
+      "temps": 85.8008,
+      "type": "simple"
+    },
+    {
+      "temps": 86.6116,
+      "type": "simple"
+    },
+    {
+      "temps": 87.017,
+      "type": "simple"
+    },
+    {
+      "temps": 87.4224,
+      "type": "simple"
+    },
+    {
+      "temps": 87.8278,
+      "type": "simple"
+    },
+    {
+      "temps": 88.6386,
+      "type": "simple"
+    },
+    {
+      "temps": 89.0441,
+      "type": "simple"
+    },
+    {
+      "temps": 89.8549,
+      "type": "simple"
+    },
+    {
+      "temps": 90.2603,
+      "type": "simple"
+    },
+    {
+      "temps": 90.6657,
+      "type": "simple"
+    },
+    {
+      "temps": 90.8684,
+      "type": "simple"
+    },
+    {
+      "temps": 91.0711,
+      "type": "simple"
+    },
+    {
+      "temps": 91.8819,
+      "type": "simple"
+    },
+    {
+      "temps": 92.6927,
+      "type": "simple"
+    },
+    {
+      "temps": 93.0981,
+      "type": "simple"
+    },
+    {
+      "temps": 93.5035,
+      "type": "accent"
+    },
+    {
+      "temps": 93.9089,
+      "type": "simple"
+    },
+    {
+      "temps": 95.1251,
+      "type": "simple"
+    },
+    {
+      "temps": 95.9359,
+      "type": "simple"
+    },
+    {
+      "temps": 96.3414,
+      "type": "simple"
+    },
+    {
+      "temps": 96.7468,
+      "type": "simple"
+    },
+    {
+      "temps": 97.1522,
+      "type": "simple"
+    },
+    {
+      "temps": 97.5576,
+      "type": "simple"
+    },
+    {
+      "temps": 98.3684,
+      "type": "simple"
+    },
+    {
+      "temps": 99.5846,
+      "type": "simple"
+    },
+    {
+      "temps": 99.99,
+      "type": "simple"
+    },
+    {
+      "temps": 100.3954,
+      "type": "longue",
+      "duree": 0.8108
+    },
+    {
+      "temps": 101.6116,
+      "type": "simple"
+    },
+    {
+      "temps": 103.2332,
+      "type": "simple"
+    },
+    {
+      "temps": 103.6386,
+      "type": "simple"
+    },
+    {
+      "temps": 103.8414,
+      "type": "simple"
+    },
+    {
+      "temps": 104.0441,
+      "type": "simple"
+    },
+    {
+      "temps": 104.8549,
+      "type": "simple"
+    },
+    {
+      "temps": 105.2603,
+      "type": "simple"
+    },
+    {
+      "temps": 105.8684,
+      "type": "simple"
+    },
+    {
+      "temps": 106.4765,
+      "type": "simple"
+    },
+    {
+      "temps": 106.8819,
+      "type": "simple"
+    },
+    {
+      "temps": 107.0846,
+      "type": "simple"
+    },
+    {
+      "temps": 107.2873,
+      "type": "simple"
+    },
+    {
+      "temps": 107.49,
+      "type": "simple"
+    },
+    {
+      "temps": 107.6927,
+      "type": "simple"
+    },
+    {
+      "temps": 108.0981,
+      "type": "simple"
+    },
+    {
+      "temps": 108.3008,
+      "type": "simple"
+    },
+    {
+      "temps": 108.9089,
+      "type": "accent"
+    },
+    {
+      "temps": 109.517,
+      "type": "rafale",
+      "duree": 1.2162,
+      "objectif": 6
+    },
+    {
+      "temps": 111.3414,
+      "type": "simple"
+    },
+    {
+      "temps": 112.963,
+      "type": "simple"
+    },
+    {
+      "temps": 113.7738,
+      "type": "simple"
+    },
+    {
+      "temps": 114.5846,
+      "type": "simple"
+    },
+    {
+      "temps": 115.1927,
+      "type": "longue",
+      "duree": 0.8108
+    },
+    {
+      "temps": 116.2062,
+      "type": "simple"
+    },
+    {
+      "temps": 116.6116,
+      "type": "simple"
+    },
+    {
+      "temps": 116.8143,
+      "type": "simple"
+    },
+    {
+      "temps": 117.017,
+      "type": "simple"
+    },
+    {
+      "temps": 117.8278,
+      "type": "simple"
+    },
+    {
+      "temps": 118.4359,
+      "type": "simple"
+    },
+    {
+      "temps": 119.4495,
+      "type": "simple"
+    },
+    {
+      "temps": 120.2603,
+      "type": "accent"
+    },
+    {
+      "temps": 121.2738,
+      "type": "simple"
+    },
+    {
+      "temps": 122.49,
+      "type": "simple"
+    },
+    {
+      "temps": 122.6927,
+      "type": "rafale",
+      "duree": 0.8108,
+      "objectif": 4
+    },
+    {
+      "temps": 123.7062,
+      "type": "simple"
+    },
+    {
+      "temps": 123.9089,
+      "type": "simple"
+    },
+    {
+      "temps": 125.9359,
+      "type": "accent"
+    },
+    {
+      "temps": 126.3414,
+      "type": "longue",
+      "duree": 1.6216
+    },
+    {
+      "temps": 135.6657,
+      "type": "accent"
+    }
+  ]
+}
