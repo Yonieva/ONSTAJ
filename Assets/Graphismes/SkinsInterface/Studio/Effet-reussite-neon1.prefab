@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1086868222764568695}
   - component: {fileID: 1961960145936076367}
   m_Layer: 0
-  m_Name: Effet-reussite-studio
+  m_Name: Effet-reussite-neon1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

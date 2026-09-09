@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: de040a5048c1a084aa6761ecffce808e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2844686828171546019
+    second: BaseMasculine_0
+  - first:
+      213: 8602028833080590337
+    second: BaseMasculine_1
+  - first:
+      213: -3876886419836516399
+    second: BaseMasculine_2
+  - first:
+      213: -2947545304556814105
+    second: BaseMasculine_3
+  - first:
+      213: -7439489209560033334
+    second: BaseMasculine_4
+  - first:
+      213: 4545490518872626773
+    second: BaseMasculine_5
+  - first:
+      213: -9087812657643249035
+    second: BaseMasculine_6
+  - first:
+      213: 6093248979211513843
+    second: BaseMasculine_7
+  - first:
+      213: 668874399317728713
+    second: BaseMasculine_8
+  - first:
+      213: -6431545749892678278
+    second: BaseMasculine_9
+  - first:
+      213: 2335999589198010480
+    second: BaseMasculine_10
+  - first:
+      213: 7536633840436850333
+    second: BaseMasculine_11
+  - first:
+      213: 1864806603056555740
+    second: BaseMasculine_12
+  - first:
+      213: 5084431966396276973
+    second: BaseMasculine_13
+  - first:
+      213: 8494999021060861647
+    second: BaseMasculine_14
+  - first:
+      213: 8674410897246809574
+    second: BaseMasculine_15
+  - first:
+      213: 8570618141393972359
+    second: BaseMasculine_16
+  - first:
+      213: 8865360850128831185
+    second: BaseMasculine_17
+  - first:
+      213: 3622835703850036402
+    second: BaseMasculine_18
+  - first:
+      213: -7335821450030287088
+    second: BaseMasculine_19
+  - first:
+      213: 4930066190474223593
+    second: BaseMasculine_20
+  - first:
+      213: -8642705418629525361
+    second: BaseMasculine_21
+  - first:
+      213: 4547211993621039635
+    second: BaseMasculine_22
+  - first:
+      213: 8113959557769651504
+    second: BaseMasculine_23
+  - first:
+      213: 1095641938122128985
+    second: BaseMasculine_24
+  - first:
+      213: -1478271615415729834
+    second: BaseMasculine_25
+  - first:
+      213: 890631077700492025
+    second: BaseMasculine_26
+  - first:
+      213: -6504330044206518142
+    second: BaseMasculine_27
+  - first:
+      213: -5436593361901904027
+    second: BaseMasculine_28
+  - first:
+      213: 7218645049517744889
+    second: BaseMasculine_29
+  - first:
+      213: -1559806115645011285
+    second: BaseMasculine_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CuisseDroite
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 533
+        width: 228
+        height: 479
+      alignment: 9
+      pivot: {x: 0.53388935, y: 0.8710148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d523a9dc664a588d0800000000000000
+      internalID: -2844686828171546019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tete
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 745
+        width: 258
+        height: 323
+      alignment: 9
+      pivot: {x: 0.5049914, y: 0.04149578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0458a89273817d0800000000000000
+      internalID: -2947545304556814105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuisseGauche
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 537
+        width: 225
+        height: 466
+      alignment: 9
+      pivot: {x: 0.4599349, y: 0.9421621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5561f4b3b83d41f30800000000000000
+      internalID: 4545490518872626773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrasDroit
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 609
+        width: 197
+        height: 302
+      alignment: 9
+      pivot: {x: 0.8072409, y: 0.7857031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57220e3898a91e180800000000000000
+      internalID: -9087812657643249035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrasGauche
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 604
+        width: 153
+        height: 299
+      alignment: 9
+      pivot: {x: 0.2895747, y: 0.79287666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd9faae8b1584900800000000000000
+      internalID: 668874399317728713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torse
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 72
+        width: 487
+        height: 664
+      alignment: 9
+      pivot: {x: 0.49999988, y: 0.7754025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d39fc573f8eb6a0800000000000000
+      internalID: -6431545749892678278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MolletDroit
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 239
+        width: 201
+        height: 295
+      alignment: 9
+      pivot: {x: 0.5384418, y: 0.8841565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd62dfda9bf11e910800000000000000
+      internalID: 1864806603056555740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MolletGauche
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 227
+        width: 149
+        height: 301
+      alignment: 9
+      pivot: {x: 0.38764125, y: 0.9064475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceaf99e99c44e570800000000000000
+      internalID: 8494999021060861647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiedDroit
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 183
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5281486, y: 0.9168592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99ad96f51cc2bb4980f44a882c2ec33
+      internalID: 8602028833080590337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvantBrasDroit
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 348
+        width: 131
+        height: 253
+      alignment: 9
+      pivot: {x: 0.59830505, y: 0.91229874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57076b82c9644d8428e502ddad64b781
+      internalID: -3876886419836516399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiedGauche
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 50
+        width: 172
+        height: 172
+      alignment: 9
+      pivot: {x: 0.44010252, y: 0.92677015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416aebe7b365abf4581b035381046fa1
+      internalID: -7439489209560033334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainDroite
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 142
+        width: 123
+        height: 200
+      alignment: 9
+      pivot: {x: 0.43718067, y: 0.912095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5af63954385684d972035f7e6dcc5c
+      internalID: 6093248979211513843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainGauche
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 134
+        width: 125
+        height: 211
+      alignment: 9
+      pivot: {x: 0.5927207, y: 0.90281814}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6777c3765420345b18375d65689510
+      internalID: 2335999589198010480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AvantBrasGauche
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 351
+        width: 146
+        height: 250
+      alignment: 9
+      pivot: {x: 0.35887083, y: 0.89149046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deac2ebdc7469664b84589eb2c0d2fa2
+      internalID: 7536633840436850333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a1a8543a137250340a4a49058e4f68d7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AvantBrasDroit: -3876886419836516399
+      AvantBrasGauche: 7536633840436850333
+      BaseMasculine_13: 5084431966396276973
+      BaseMasculine_15: 8674410897246809574
+      BaseMasculine_16: 8570618141393972359
+      BaseMasculine_17: 8865360850128831185
+      BaseMasculine_18: 3622835703850036402
+      BaseMasculine_19: -7335821450030287088
+      BaseMasculine_20: 4930066190474223593
+      BaseMasculine_21: -8642705418629525361
+      BaseMasculine_22: 4547211993621039635
+      BaseMasculine_23: 8113959557769651504
+      BaseMasculine_24: 1095641938122128985
+      BaseMasculine_25: -1478271615415729834
+      BaseMasculine_26: 890631077700492025
+      BaseMasculine_27: -6504330044206518142
+      BaseMasculine_28: -5436593361901904027
+      BaseMasculine_29: 7218645049517744889
+      BaseMasculine_30: -1559806115645011285
+      BrasDroit: -9087812657643249035
+      BrasGauche: 668874399317728713
+      CuisseDroite: -2844686828171546019
+      CuisseGauche: 4545490518872626773
+      MainDroite: 6093248979211513843
+      MainGauche: 2335999589198010480
+      MolletDroit: 1864806603056555740
+      MolletGauche: 8494999021060861647
+      PiedDroit: 8602028833080590337
+      PiedGauche: -7439489209560033334
+      Tete: -2947545304556814105
+      Torse: -6431545749892678278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
