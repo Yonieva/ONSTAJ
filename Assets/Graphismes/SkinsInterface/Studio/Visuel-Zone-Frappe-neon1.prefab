@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4588570984617180692}
   - component: {fileID: 3861332485892609493}
   m_Layer: 0
-  m_Name: Visuel-Zone-Frappe-Studio
+  m_Name: Visuel-Zone-Frappe-neon1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

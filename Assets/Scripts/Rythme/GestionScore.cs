@@ -131,8 +131,8 @@ public class GestionScore : MonoBehaviour
 
     void ActualiserAffichage()
     {
-        texteScore.text = "Score : " + score;
-        texteCombo.text = "Combo : " + combo;
+        texteScore.text = "Score\n" + score.ToString("D4");
+        texteCombo.text = "Combo\n" + combo.ToString("D3");
     }
 
     void LancerAnimationJugement()

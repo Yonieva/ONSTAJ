@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2323069492938123389}
   - component: {fileID: 7209257312988056290}
   m_Layer: 0
-  m_Name: Effet-touche-studio
+  m_Name: Effet-touche-neon1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
