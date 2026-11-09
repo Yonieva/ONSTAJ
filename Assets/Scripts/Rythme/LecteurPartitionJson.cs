@@ -27,6 +27,7 @@ public class LecteurPartitionJson : MonoBehaviour
     public TextAsset fichierJson;
     public PartitionJson partitionChargee;
     public GameObject prefabNote;
+    public GestionnaireSkin gestionnaireSkin;
 
     private float[] pisteOccupeeJusqua = new float[5];
     private int pisteSecondaireRafale = 0;
@@ -129,6 +130,16 @@ public class LecteurPartitionJson : MonoBehaviour
 
             NoteRythmique noteRythmique =
                 nouvelleNote.GetComponent<NoteRythmique>();
+
+            if (
+                gestionnaireSkin != null &&
+                gestionnaireSkin.skinActuel != null
+            )
+            {
+                noteRythmique.AppliquerSkin(
+                    gestionnaireSkin.skinActuel
+                );
+            }
 
             noteRythmique.ConfigurerNote(
                 numeroPisteActuelle,

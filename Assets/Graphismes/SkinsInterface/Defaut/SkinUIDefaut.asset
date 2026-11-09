@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc8295f28bd6db4e922a376500d7fe2, type: 3}
+  m_Name: SkinUIDefaut
+  m_EditorClassIdentifier: Assembly-CSharp::SkinGameplay
+  fondGameplay: {fileID: 21300000, guid: ebc2bc2590c42cb49bc9cd6e63afd796, type: 3}
+  multiplicateurLargeurFondGameplay: 1
+  multiplicateurHauteurFondGameplay: 1
+  policeCompteRebours: {fileID: 11400000, guid: 9a957dc48fa254148b9dac551cd41dbc, type: 2}
+  multiplicateurTailleCompteRebours: 1
+  spritePiste: {fileID: 0}
+  spriteContourPiste: {fileID: 0}
+  multiplicateurLargeurPiste: 1
+  multiplicateurHauteurPiste: 1
+  multiplicateurLargeurContourPiste: 1
+  multiplicateurHauteurContourPiste: 1
+  couleurPiste: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  couleurContourPiste: {r: 1, g: 0.07843138, b: 0.5764706, a: 1}
+  spriteZoneFrappe: {fileID: 21300000, guid: f13388fead161f440bd9c2e4a885d423, type: 3}
+  multiplicateurLargeurZoneFrappe: 1
+  multiplicateurHauteurZoneFrappe: 1
+  spriteNoteSimple: {fileID: 21300000, guid: 0b98d5a2a10d624439e72d12392d8a1a, type: 3}
+  spriteNoteAccent: {fileID: 21300000, guid: 9cfbfe7330a0b20478aa36ee846af9d5, type: 3}
+  multiplicateurLargeurNoteSimple: 0.7
+  multiplicateurHauteurNoteSimple: 0.7
+  multiplicateurLargeurNoteAccent: 0.8
+  multiplicateurHauteurNoteAccent: 0.8
+  prefabCorpsNoteLongue: {fileID: 1696679985860981344, guid: 36badf0f34fa2d94cbb22721e8e5f14d, type: 3}
+  multiplicateurLargeurCorpsNoteLongue: 0.9
+  multiplicateurHauteurCorpsNoteLongue: 0.9
+  prefabJaugeRafale: {fileID: 1696679985860981344, guid: 10503242b78d1cf4aa6ca41b87072ddb, type: 3}
+  prefabRemplissageRafale: {fileID: 1696679985860981344, guid: 91f978711c976a3439191c353bca3f5e, type: 3}
+  multiplicateurLargeurJaugeRafale: 0.9
+  multiplicateurHauteurJaugeRafale: 0.7
+  multiplicateurLargeurRemplissageRafale: 0.9
+  multiplicateurHauteurRemplissageRafale: 0.9
+  spriteFondTouche: {fileID: 21300000, guid: 8f277402df510ab4bacd9f7b81363127, type: 3}
+  multiplicateurLargeurFondTouche: 1.1
+  multiplicateurHauteurFondTouche: 1.1
+  spriteFondScore: {fileID: 21300000, guid: 4ff76d5ac209c42458a274bff11322b7, type: 3}
+  spriteFondCombo: {fileID: 21300000, guid: 4ff76d5ac209c42458a274bff11322b7, type: 3}
+  policeInterface: {fileID: 11400000, guid: 9a957dc48fa254148b9dac551cd41dbc, type: 2}
+  multiplicateurLargeurFondScore: 1
+  multiplicateurHauteurFondScore: 1
+  multiplicateurLargeurFondCombo: 1
+  multiplicateurHauteurFondCombo: 1
+  multiplicateurTaillePoliceScore: 1
+  multiplicateurTaillePoliceCombo: 1
+  multiplicateurTaillePoliceJugement: 1
+  couleurTexteScore: {r: 1, g: 0.078431375, b: 0.5764706, a: 1}
+  couleurTexteCombo: {r: 1, g: 0.078431375, b: 0.5764706, a: 1}
+  couleurTexteJugement: {r: 1, g: 0.078431375, b: 0.5764706, a: 1}
+  couleurTexteTouches: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  couleurParfait: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  couleurBien: {r: 1, g: 0.07843138, b: 0.5764706, a: 1}
+  couleurRate: {r: 1, g: 1, b: 1, a: 1}
+  prefabEffetReussite: {fileID: 5319676712510433980, guid: 0caee32513815c34a9ebf57d66f4646d, type: 3}
+  prefabEffetReussiteAccent: {fileID: 5319676712510433980, guid: 28dbbc44a355f3649a8c709de56a2110, type: 3}
+  prefabEffetTouche: {fileID: 0}
+  couleurEffetTouche: {r: 1, g: 0.078431375, b: 0.5764706, a: 0.56078434}
+  multiplicateurLargeurEffetReussite: 1
+  multiplicateurHauteurEffetReussite: 1
+  multiplicateurLargeurEffetReussiteAccent: 1
+  multiplicateurHauteurEffetReussiteAccent: 1
+  multiplicateurLargeurEffetTouche: 1
+  multiplicateurHauteurEffetTouche: 1
