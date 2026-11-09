@@ -1,5 +1,4 @@
-
-[▶ Regarder la vidéo de ON STAJ]((https://youtu.be/eXrEUkrPtSI)
+[▶ Demo ON STAJ((https://youtu.be/eXrEUkrPtSI)
 
 # ON STAJ 🎵
 
