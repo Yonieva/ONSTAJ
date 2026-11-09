@@ -1,5 +1,5 @@
 
-<video src="Medias/gameplay.mp4" controls width="800"></video>
+https://github.com/user-attachments/assets/TON-ID-VIDEO
 
 # ON STAJ 🎵
 
