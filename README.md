@@ -1,5 +1,5 @@
 
-[▶ Regarder la vidéo de ON STAJ](Medias/gameplay.mp4)
+[▶ Regarder la vidéo de ON STAJ]((https://youtu.be/eXrEUkrPtSI)
 
 # ON STAJ 🎵
 
