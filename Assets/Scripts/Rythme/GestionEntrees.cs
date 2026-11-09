@@ -9,7 +9,7 @@ public class GestionEntrees : MonoBehaviour
     public EffetPiste effetPiste2;
     public EffetPiste effetPiste3;
     public EffetPiste effetPiste4;
-    public float dureeProtectionApresRafale = 0.5f;
+    public float dureeProtectionApresRafale = 0.6f;
 
     private NoteRythmique[] notesLonguesEnCours = new NoteRythmique[5];
     private NoteRythmique[] rafalesEnCours = new NoteRythmique[5];
@@ -74,6 +74,9 @@ public class GestionEntrees : MonoBehaviour
     {
         if (Time.time < protectionApresRafaleJusqua[numeroPiste])
         {
+            protectionApresRafaleJusqua[numeroPiste] =
+                Time.time + dureeProtectionApresRafale;
+
             return;
         }
 

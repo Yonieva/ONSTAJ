@@ -101,7 +101,7 @@ public class GestionScore : MonoBehaviour
 
         nombreParfaits++;
 
-        texteJugement.text = "ACCENT";
+        texteJugement.text = "PARFAIT";
         texteJugement.color = couleurParfait;
 
         ActualiserAffichage();
@@ -137,6 +137,9 @@ public class GestionScore : MonoBehaviour
 
     void LancerAnimationJugement()
     {
+        if (texteJugement == null)
+            return;
+
         if (animationJugementEnCours != null)
         {
             StopCoroutine(animationJugementEnCours);
@@ -145,14 +148,16 @@ public class GestionScore : MonoBehaviour
         positionInitialeJugement =
             texteJugement.rectTransform.anchoredPosition;
 
-        texteJugement.fontSize = tailleInitialeJugement;
+        texteJugement.fontSize =
+            tailleInitialeJugement;
 
-        // Important :
-        // si l'ancienne animation a été interrompue alors que
-        // le texte était transparent, on remet l'alpha à 1.
-        Color couleur = texteJugement.color;
+        Color couleur =
+            texteJugement.color;
+
         couleur.a = 1f;
-        texteJugement.color = couleur;
+
+        texteJugement.color =
+            couleur;
 
         animationJugementEnCours =
             StartCoroutine(AnimerJugement());
@@ -160,6 +165,10 @@ public class GestionScore : MonoBehaviour
 
     IEnumerator AnimerJugement()
     {
+
+        if (texteJugement == null)
+            yield break;
+
         float duree = 0.35f;
         float temps = 0f;
 
