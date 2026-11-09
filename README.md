@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/TON-ID-VIDEO
+[▶ Regarder la vidéo de ON STAJ](Medias/gameplay.mp4)
 
 # ON STAJ 🎵
 
