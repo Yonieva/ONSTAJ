@@ -1,5 +1,5 @@
-https://youtu.be/eXrEUkrPtSI
 
+<video src="Medias/gameplay.mp4" controls width="800"></video>
 
 # ON STAJ 🎵
 
